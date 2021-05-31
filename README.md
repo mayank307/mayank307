@@ -14,10 +14,10 @@
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-<p•> :computer: I’m currently working on <b>MERN Stack</b></p>
-<p•> :hourglass_flowing_sand: Simultaneously learning <b>React</b> and <b>Javascript</b></p>
-<p•> :rocket: Interested in collaboration wrt <b>Web Related Projects</b></p>
-<p•> 💬 Topics that interest me <b>Web Developement , Graphic and Web designing </b></p>
+<p> :computer: I’m currently working on <b>MERN Stack</b></p>
+<p> :hourglass_flowing_sand: Simultaneously learning <b>*React*</b> and <b>Javascript</b></p>
+<p> :rocket: Interested in collaboration wrt <b>Web Related Projects</b></p>
+<p> 💬 Topics that interest me <b>Web Developement , Graphic and Web designing </b></p>
 
 <h2 align="left">:heart: Let's connect:</h2>
 <a href="https://www.linkedin.com/in/mayank-kumar-55b951179/">
