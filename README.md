@@ -1,7 +1,3 @@
-### Hi there 👋, I'm Mayank!
-<br />
-<br />
-
-- 🌱 I’m currently learning Javascript.
- 
- 
+<h2 align="left">
+I am mayank
+</h2>
