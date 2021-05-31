@@ -17,8 +17,9 @@
 <p>- :computer: I’m currently working on <b>MERN Stack</b></p>
 <p>- :hourglass_flowing_sand: Simultaneously working on <b>React</b> and <b>Javascript</b></p>
 <p>- :rocket: Interested in collaboration wrt <b>Web Related Projects</b></p>
-<p>- 💬 Topics that interests me <b>Web Developement , Graphic and Web designing </b></p>
+<p>- 💬 Topics that interest me <b>Web Developement , Graphic and Web designing </b></p>
 
 <h2 align="left">:heart: Let's connect:</h2>
-[![Linkedin Badge](https://img.shields.io/badge/-mayank_kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-kumar-55b951179/)](https://www.linkedin.com/in/mayank-kumar-55b951179/) [![Twitter Badge](https://img.shields.io/badge/-@mayank_kumar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mayank_kumar)](https://twitter.com/mayank_kumar) [![Facebook Badge](https://img.shields.io/badge/-@mayank_kumar-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100032765378950)](https://www.facebook.com/profile.php?id=100032765378950) [![Instagram Badge](https://img.shields.io/badge/-@creator.io-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/creator.io/)](https://www.instagram.com/creator.io/)
-<br>
+<a href="https://www.linkedin.com/in/mayank-kumar-55b951179/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
