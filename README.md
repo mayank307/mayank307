@@ -15,7 +15,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 <p>- :computer: I’m currently working on <b>MERN Stack</b></p>
-<p>- :hourglass_flowing_sand: Simultaneously working on <b>React</b> and <b>Javascript</b></p>
+<p>- :hourglass_flowing_sand: Simultaneously learning <b>React</b> and <b>Javascript</b></p>
 <p>- :rocket: Interested in collaboration wrt <b>Web Related Projects</b></p>
 <p>- 💬 Topics that interest me <b>Web Developement , Graphic and Web designing </b></p>
 
@@ -25,4 +25,7 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/creator.io/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100032765378950">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
