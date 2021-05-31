@@ -15,7 +15,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 <p> :computer: I’m currently working on <b>MERN Stack</b></p>
-<p> :hourglass_flowing_sand: Simultaneously learning ***React*** and <b>Javascript</b></p>
+<p> :hourglass_flowing_sand: Simultaneously learning <b>React</b> and <b>Javascript</b></p>
 <p> :rocket: Interested in collaboration wrt <b>Web Related Projects</b></p>
 <p> 💬 Topics that interest me <b>Web Developement , Graphic and Web designing </b></p>
 
